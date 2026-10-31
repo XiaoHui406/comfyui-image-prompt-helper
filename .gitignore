@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+.env.local
+
+# Local history database (SQLite, WAL mode also creates -wal / -shm)
+history.db
+history.db-wal
+history.db-shm
+
+# 本地打包 / 备份的压缩包（很可能连 .env、history.db 一起打进去了）
+*.rar
+*.zip
+*.7z
+
