@@ -172,3 +172,11 @@ python main.py
 Key 只放在 `.env` 里（已在 `.gitignore`），别把 `.env` 发到群里或提交上去。
 `comfyui_prompt_helper.py` 现在**不含**任何 Key，可以放心提交。
 `history.db` 里存着**你生成过的图片和提示词**，同样在 `.gitignore` 里；分享项目目录时记得别把它一起打包。
+
+## 许可证
+
+[MIT](LICENSE) © 2026 XiaoHui406
+
+随便用：可以商用、修改、分发，保留版权声明和许可声明即可。软件按"现状"提供，不附带任何担保。
+
+项目地址：<https://github.com/XiaoHui406/comfyui-image-prompt-helper>
